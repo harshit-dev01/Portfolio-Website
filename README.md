@@ -42,7 +42,7 @@ portfolio/
 
 ## 👨‍💻 About Me
 
-I am Harshit Sharma, a passionate Frontend Developer focused on creating modern, responsive, and user-friendly web experiences.
+I am Harshit , a passionate Frontend Developer focused on creating modern, responsive, and user-friendly web experiences.
 
 ### Skills
 
