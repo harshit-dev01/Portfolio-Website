@@ -93,6 +93,9 @@ Feel free to connect with me:
 
 ## Resume-IMG
 <img width="862" height="1825" alt="ChatGPT Image May 26, 2026, 01_43_21 PM" src="https://github.com/user-attachments/assets/a1c7788f-8fdd-42db-ab58-58fbe96ce587" />
+## Live Link
+
+https://harshits-portfolio.onrender.com
 
 ## 📄 License
 
